@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Minigames/Authors/Adrian Brody/Cool Game/adrian_coolgame_scene.unity
     guid: 7fad500d26558424aa01dd88aab355ae
+  - enabled: 1
+    path: Assets/Minigames/Authors/Soham Kar/Arrowhead/SohamKar_Arrowhead_Minigame.unity
+    guid: 027208da00aadb54d84e18f64fb17200
   m_configObjects: {}
