@@ -1,4 +1,4 @@
-# GameGameGameGame Setup Guide
+MINGAME Setup Guide
 
 #### (For poking around game, NOT for if you want to contribute)
 1. Download [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html)
